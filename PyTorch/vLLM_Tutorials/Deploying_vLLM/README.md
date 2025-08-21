@@ -20,7 +20,7 @@ This folder contains scripts and configuration files that can be used to build a
 |Qwen/Qwen2.5-7B-Instruct |1| 
 |meta-llama/Llama-3.2-11B-Vision-Instruct |1| 
 |meta-llama/Llama-3.2-90B-Vision-Instruct |4|
-|ibm-granite/granite-8b-code-instruct-4k |1|
+|ibm-granite/granite-3.1-8b-instruct |1|
 
 ## Quick Start
 To run these models on your Gaudi machine:
